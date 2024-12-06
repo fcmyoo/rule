@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steampp.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
