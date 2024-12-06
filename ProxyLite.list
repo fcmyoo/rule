@@ -2,6 +2,12 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamstat.us
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -19,18 +25,6 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
